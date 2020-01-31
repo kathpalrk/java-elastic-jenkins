@@ -1,4 +1,4 @@
-#JAVA maven Build code and Deploy the code into AWS Elastic Beanstalk enviornment.
+# JAVA maven Build code and Deploy the code into AWS Elastic Beanstalk enviornment.
 
 Firstly you would need to download the code from here.
 
